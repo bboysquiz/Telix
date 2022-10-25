@@ -1,0 +1,42 @@
+.profile__container {
+    margin: 0 auto;
+    width: 942px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    padding-top: 99px;
+    margin-bottom: 200px;
+}
+.profile__title {
+    color: #fff;
+    font-weight: 700;
+    font-family: Cuprum;
+    font-size: 48px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    font-style: bold;
+    padding-top: 35px;
+    padding-bottom: 34px;
+    text-shadow: #000 0px 0px 7px;
+}
+.profile__title-wrapper {
+    width: 100%;
+    border-radius: 20px;
+    background-color: #32425C;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+            box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+}
